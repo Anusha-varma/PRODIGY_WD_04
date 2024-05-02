@@ -1,0 +1,109 @@
+h1{
+  font-family: Lovelace regular;
+  font-weight: 100;
+  font-size: 7vh;
+  color: white;
+}
+p{
+  color: rgb(253, 253, 253);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+  font-weight: 100;
+  font-size: 3vh;
+  padding-bottom: 1vh;
+}
+.C{
+  font-family: 'Times New Roman', Times, serif;
+  color: rgba(226, 219, 219, 0.952);
+ padding-left: 2vh;
+}
+.card1{
+  background-color: rgba(253, 252, 252, 0.945);
+  box-shadow: 20px 20px 40px #fcfdfd;
+
+}
+.card2{
+  gap: 5vh;
+  padding-left: 2vh;
+  padding-right: 2vh;
+}
+.c1{
+  background-color: rgba(95, 158, 160, 0.288);
+  padding: 2vh;
+  display: flex;
+  justify-content: space-evenly;
+  gap: 2vh;
+}
+.c2{
+  padding-left: 2vh;
+  padding-right: 2vh;
+  display: flex;
+  justify-content: space-evenly;
+  gap: 2vh;
+}
+img{
+  width: 35vh;
+  height: 45vh;
+}
+.Main{
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/770/604/1021/purple-big-bubbles-wallpaper-preview.jpg");
+  background-size: 100vmax;
+}
+.container{
+  padding: 5vh;
+ display:flex ;
+ justify-content:center;
+ gap: 20vh;
+}
+.A{
+  display: flex;
+  justify-content: center;
+  gap: 2vh;
+}
+.card{
+  background-color: rgba(248, 246, 246, 0.308);
+  padding:2vh;
+  width: 50vh;
+}
+.cont1{
+  display: flex;
+  justify-content: center;
+  gap: 5vh;
+}
+.img{
+  width: 5vh;
+  height: 5vh;
+}
+.img1{
+  width: 5vh;
+  height: 5vh;
+  padding-left: 2vh;
+  padding-right: 2vh;
+}
+h3{ 
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgb(236, 222, 22);
+  font-weight: 100;
+  font-size: 4vh;
+}
+.B{
+  color: yellow;
+  font-size: 7vh;
+  font-weight: 100;
+}
+h4{
+  color: rgb(20, 109, 160);
+  padding-left:2vh;
+  padding-right: 2vh;
+  font-size: larger;
+}
+h5{ padding-left: 3vh;
+  padding-right: 2vh;
+  padding-bottom: 1vh;
+  font-family: cursive;
+  color: rgb(60, 9, 73);
+  font-size: 3vh;
+  height: 5px;
+}
+h2{
+  font-size: 3vh;
+}
