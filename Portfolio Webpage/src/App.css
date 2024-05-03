@@ -4,6 +4,11 @@ h1{
   font-size: 7vh;
   color: white;
 }
+h6{
+  font-family: Lovelace regular;
+  font-weight: 100;
+  font-size: 6vh;
+}
 p{
   color: rgb(253, 253, 253);
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
@@ -17,7 +22,7 @@ p{
  padding-left: 2vh;
 }
 .card1{
-  background-color: rgba(253, 252, 252, 0.945);
+  background-color: rgb(253, 252, 252);
   box-shadow: 20px 20px 40px #fcfdfd;
 
 }
@@ -25,6 +30,10 @@ p{
   gap: 5vh;
   padding-left: 2vh;
   padding-right: 2vh;
+}
+i{
+  color: bisque;
+
 }
 .c1{
   background-color: rgba(95, 158, 160, 0.288);
@@ -38,6 +47,7 @@ p{
   padding-right: 2vh;
   display: flex;
   justify-content: space-evenly;
+  align-items: flex-end;
   gap: 2vh;
 }
 img{
@@ -47,6 +57,7 @@ img{
 .Main{
   background-image: url("https://c4.wallpaperflare.com/wallpaper/770/604/1021/purple-big-bubbles-wallpaper-preview.jpg");
   background-size: 100vmax;
+  padding-bottom: 10vh;
 }
 .container{
   padding: 5vh;
@@ -74,8 +85,8 @@ img{
   height: 5vh;
 }
 .img1{
-  width: 5vh;
-  height: 5vh;
+  width: 7vh;
+  height: 7vh;
   padding-left: 2vh;
   padding-right: 2vh;
 }
@@ -106,4 +117,8 @@ h5{ padding-left: 3vh;
 }
 h2{
   font-size: 3vh;
+}
+
+.mail{
+  padding-left: 2vh;
 }
