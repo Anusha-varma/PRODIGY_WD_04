@@ -9,7 +9,8 @@ function App() {
   <div className="card1">
     <h5>Residence: Hyderabad</h5>
     <h5>Age: 18</h5>
-    <div className="card2"><div>
+    <a className="mail"href="anush.varma05@gmail.com">anush.varma05@gmail.com</a>
+     <div className="card2"><div>
     <div className="c1"><a href="https://github.com/Anusha-varma"><img  className="img" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt=""></img></a>
  <a href="https://www.linkedin.com/in/anusha-kucharlapati-362b97294"><img className="img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt=""></img></a>
  <a href="https://www.instagram.com/anush.varma05?igsh=MXF2anIzYjF2eXhxbg=="><img className="img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt=""></img></a>
@@ -27,11 +28,13 @@ function App() {
   <br/></div>
   </div></div>
  <div> 
+   <h6><i>"Unlocking digital possibilities through code".</i></h6>
   <h1>Hi, I'm <h2 className="B">Anusha Kucharlapati</h2></h1>
 <h2 className="C">-FULL STACK DEVELOPER</h2>
  </div>
   <img src={img} alt="" />
 </div>
+<br/><br/><br/>
 <div className="cont1">
 <div className="card">
   <h3>Education</h3>
